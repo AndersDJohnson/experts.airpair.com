@@ -12,6 +12,6 @@ To start this project will look similar to the full airpair site with nodeJS on 
 
 Please create a pull request and add your name to this readme if you'd like to get invovled in this project
 
-- Jonathon Kresner
+- [Jonathon Kresner (jkresner)](https://github.com/jkresner)
 - {name-here}
 - {name-here}

@@ -15,5 +15,5 @@ Please create a pull request and add your name to this readme if you'd like to g
 - Jonathon Kresner
 - [Anders D. Johnson (adjohnson916)](https://github.com/adjohnson916)
 - [Brian Foody (brianfoody)](https://github.com/brianfoody)
-- {name-here}
+- [Rahat Khanna (mappmechanic)](https://github.com/mappmechanic)
 - {name-here}
